@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmed El-Shahat
 
-🎯 Data Analyst | Problem-Solving Enthusiast | Pharmacist Turned Data Explorer  
+🎯 Data Analyst | Problem-Solving Enthusiast
 📍 Cairo, Egypt — Open to Remote & Freelance Opportunities
 
 -----
